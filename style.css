@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    backgound-color: #fff8f0;
+    color: #333;
+}
+
+header {
+    background-color: #ff9933;
+    color: antiquewhite;
+    padding: 20px;
+    text-align: center;
+}
+
+.imagem img {
+    display: block;
+    max-width:100%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color:#cc6600;
+}
+
+ul {
+    list-style: square;
+    padding-left: 20px;
+}
+
+footer {
+    background-color: #ff9933;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
