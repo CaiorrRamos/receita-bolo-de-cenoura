@@ -35,7 +35,8 @@ Treinar os fundamentos de estruturação com HTML e estilização com CSS, como 
 
 ## ✅ Status do projeto
 
-✅ Projeto em desenvolvimento — versão básica concluída.
+ - Versão basica Concluida ✅
+<sub>(Projeto em Desenvolvimento⚙️)</sub>
 
 ---
 
